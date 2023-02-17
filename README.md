@@ -16,8 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-created-with-html-and-css-EkF5DYYw7Q](https://www.frontendmentor.io/solutions/qr-code-component-created-with-html-and-css-EkF5DYYw7Q)
+- Live Site URL: [https://qr-code-component-jmarcel0.netlify.app/](https://qr-code-component-jmarcel0.netlify.app/)
 
 
 ## My process
