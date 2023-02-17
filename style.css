@@ -17,7 +17,7 @@ body {
   font-family: 'Outfit', sans-serif;
 }
 
-.container {
+main {
   height: 100%;
   width: 100%;
   display: flex;
@@ -38,6 +38,8 @@ body {
 }
 
 .qr-code {
+  height: 310px;
+  width: 310px;
   margin-top: 15px;
   margin-bottom: 20px;
   border-radius: 20px;
